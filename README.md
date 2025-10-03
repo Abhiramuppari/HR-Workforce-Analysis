@@ -10,29 +10,54 @@
 📤 Exportable Reports: Includes PDF and HTML formats for presentations and sharing.
 💡 Actionable Insights: Designed to help stakeholders make informed HR decisions and improve workforce management.
 📁 Project Structure
+
 │   README.md
+
 │
+
 ├───assets
+
 │       Age Groups.png
+
 │       background-bluee.jpg
+
 │       cover_image.png
+
 │       dashboard.png
+
 │       Education.png
+
 │       favicon.png
+
 │       Gender.png
+
+
 │       Job Role.png
+
 │       preview.png
+
 │       R&D.png
+
 │       Salary Slab.png
+
 │       sales.png
+
 │       Years.png
+
 │
+
 ├───data
+
 │       HR_Analytics.csv
+
 │
+
 ├───powerBI
+
 │       hranalytics_insights_dashboard.pbix
+
 │
+
 └───report
 
 
